@@ -1,0 +1,14 @@
+release/billentry.o
+release/customer.o
+release/login.o
+release/main.o
+release/mainwindow.o
+release/products.o
+release/stockentry.o
+release/qrc_icons.o
+release/moc_billentry.o
+release/moc_customer.o
+release/moc_login.o
+release/moc_mainwindow.o
+release/moc_products.o
+release/moc_stockentry.o

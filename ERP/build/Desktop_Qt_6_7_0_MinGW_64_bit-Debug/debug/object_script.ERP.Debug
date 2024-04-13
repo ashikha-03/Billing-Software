@@ -1,0 +1,14 @@
+debug/billentry.o
+debug/customer.o
+debug/login.o
+debug/main.o
+debug/mainwindow.o
+debug/products.o
+debug/stockentry.o
+debug/qrc_icons.o
+debug/moc_billentry.o
+debug/moc_customer.o
+debug/moc_login.o
+debug/moc_mainwindow.o
+debug/moc_products.o
+debug/moc_stockentry.o
